@@ -11,7 +11,7 @@ const Home = () => {
           <ul className='rowone'>
             <a href="https://shanobueno.github.io/newsies/">
               <li className="proj1">
-                <h5>NEW YORK TIMES ARCHIVE<br></br>node/js</h5>
+                <h5>HEADLINE ARCHIVE<br></br>node/js</h5>
 
               </li>
             </a>
