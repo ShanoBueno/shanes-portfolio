@@ -5,7 +5,7 @@ const Footer =()=>{
     <div className="break">
     <div className="footer">
       <p>Built with react 2021</p>
-      <a href=""><p>Portfolio Repo</p></a>
+        <a href="https://github.com/ShanoBueno/shanes-portfolio"><p>Portfolio Repo</p></a>
       </div>
 
     </div>
