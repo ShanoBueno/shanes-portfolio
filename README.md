@@ -1,5 +1,13 @@
 # Shane's Brain
 
-# React built portfolio app for Shane Messmer
+# Description 
+React built portfolio app for Shane Messmer
 
-# https://github.com/ShanoBueno/shanes-portfolio/
+# Github: 
+https://github.com/ShanoBueno/shanes-portfolio/
+
+# contributors 
+Shane Messmer - github.com/shanobueno
+
+
+
