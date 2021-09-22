@@ -9,9 +9,9 @@ const Home = () => {
 
         <div className="row1">
           <ul className='rowone'>
-            <a href="https://shanobueno.github.io/newsies/">
+            <a href="https://boiling-beach-80721.herokuapp.com/">
               <li className="proj1">
-                <h5>HEADLINE ARCHIVE<br></br>node/js</h5>
+                <h5>HYPE MACHINE<br></br>node/js</h5>
 
               </li>
             </a>
