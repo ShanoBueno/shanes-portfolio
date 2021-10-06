@@ -414,7 +414,8 @@ li h6{
 }
 
 .proj1 {
-  background-image: url(https://thumbs.dreamstime.com/z/ilustrative-collage-newspaper-headlines-new-york-usa-january-newspaper-headlines-text-historic-events-happened-168380786.jpg)
+  background-image: url(img/hypemachine.jpg);
+  background-size: 100%; 
 }
 
 .proj2 {
@@ -426,7 +427,7 @@ li h6{
 }
 
 .proj4 {
-  background-image: url(https://i.redd.it/4wgs6uerif661.jpg)
+  background-image: url(img/nytimes.jpg)
 }
 
 .proj5 {

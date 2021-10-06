@@ -11,7 +11,7 @@ const Home = () => {
           <ul className='rowone'>
             <a href="https://boiling-beach-80721.herokuapp.com/">
               <li className="proj1">
-                <h5>HYPE MACHINE<br></br>node/js</h5>
+                <h5>HYPE MACHINE<br></br>mern</h5>
 
               </li>
             </a>
@@ -31,9 +31,9 @@ const Home = () => {
         <div className='row2'>
           <ul>
 
-            <a href="https://intense-cove-60718.herokuapp.com/">
+            <a href="https://shanobueno.github.io/newsies/">
               <li className="proj4">
-                <h5>THOUGHT BLOGGER<br></br>node/epress/js</h5>
+                <h5>NYT ARCHIVE<br></br>nyt api</h5>
 
               </li>
             </a>
