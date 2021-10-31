@@ -42,9 +42,9 @@ const Home = () => {
                 <h5>COLORFUL WORKDAY<br></br>js/css</h5>
               </li>
             </a>
-            <a href="https://still-basin-15405.herokuapp.com/notes">
+            <a href="https://wicked-goblin-53396.herokuapp.com/">
               <li className="proj6">
-                <h5>NOTE TAKER PRO<br></br>express/js</h5>
+                <h5>CHARTRACKER<br></br>sequelize/handlebars</h5>
               </li>
             </a>
           </ul>
