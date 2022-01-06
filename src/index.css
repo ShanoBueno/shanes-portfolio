@@ -106,7 +106,7 @@ button {
   text-decoration: none;
   border-radius: 0.5rem;
   border: none;
-  color: #fff;
+  color: rgb(81, 23, 218);
   outline: none;
   cursor: pointer;
   margin: 0 1px;
@@ -367,7 +367,6 @@ textarea {
 }
 
 .portfolio {
-  display: flex;
   
   width:100%; 
   
@@ -378,27 +377,29 @@ textarea {
   padding-bottom: 50px;
   height: 100%; 
   width: 100%; 
-  border-radius: 2px;
-  border-style:groove;
+  border:rgb(#799FBA);
+  border-bottom: 5px;
+  border-style:solid;
   border-width: 2px;
-  margin-bottom: 20px; 
-
-
-}
-
-
-.row1 {
-  width: 50%;
- 
+  margin-bottom: 20px;
   
- 
+
+
+}
+
+.desc {
+  background-color:rgb(12, 34, 94); ;
+  margin-top: 0px; 
+  margin-right: 20%;
+  margin-left: 20%;
+  border: #799FBA;
+  border-style: solid;
+  border-width: 5px;
+  margin-bottom: 20px;
 
 }
 
 
-.row2 {
-  width: 50%;
-}
 
 
 
@@ -414,29 +415,29 @@ li h6{
 }
 
 .proj1 {
-  background-image: url(img/hypemachine.jpg);
+  background-image: url(img/hypmachine.png);
   background-size: 100%; 
 }
 
 .proj2 {
-  background-image: url(https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5e4472302cb67c3b03f47fbc_word%20cloud%20template%20sample%202.jpeg)
+  background-image: url(https://camo.githubusercontent.com/2f910ad69012ccf3cb9d5441d89422a61849956f493278c054972cb064ada75f/68747470733a2f2f63646e2e7261776769742e636f6d2f53426f7564726961732f496e7175697265722e6a732f323861653833333762613531643933653335396566346637656532346537396236393839383936322f6173736574732f73637265656e73686f74732f696e7075742e737667)
 }
 
 .proj3 {
-  background-image: url(https://i.pinimg.com/originals/35/88/4c/35884c354823561720dc4555a1b6227d.jpg)
+  background-image: url(img/pass.png)
 }
 
 .proj4 {
-  background-image: url(img/nytimes.jpg)
+  background-image: url(img/times.png)
 }
 
 .proj5 {
-  background-image: url(https://cdn.britannica.com/29/153629-050-7590A6D1/calendar-datess.jpg)
+  background-image: url(img/work.png)
   
 }
 
 .proj6 {
-  background-image: url(https://ak.picdn.net/shutterstock/videos/19463155/thumb/1.jpg)
+  background-image: url(img/char.png)
 }
 
 h2 {
@@ -474,7 +475,7 @@ button {
 
 }
 img {
-   border: white;
+   border: darkblue;
   border-width: 10px;
   border-style: solid; 
 
@@ -514,4 +515,11 @@ img {
   border-top:#799FBA;
   border-top-width: 10px; 
   border-top-style: solid; 
+}
+
+p {
+  line-height: 18px; 
+  margin-left: 10px;
+  margin-right: 10px; 
+  margin-bottom: 20px;
 }
