@@ -7,7 +7,24 @@ const Home = () => {
       <ul className = "projects">
       <div className="portfolio">
        
-          
+      <div class="desc">
+              <a href="https://www.getedify.co">
+                <li className="proj0">
+                
+                </li>
+              </a>
+
+              <p>
+                Edify: A developer tool that allows users to create slack learning paths for onboarding Software Engineer. I was responsible for rebuilding front-end components based off wireframes as well as creating unit tests for the back-end API. 
+                <br></br>
+                <br></br>
+                Tech-Stack: ReactJS, TypeScript, MySQL, AWS, NodeJS
+                <br></br>
+                <br></br>
+             
+                <br></br>
+              </p>
+            </div>
             <div class="desc">
               <a href="https://boiling-beach-80721.herokuapp.com/">
                 <li className="proj1">
@@ -121,17 +138,6 @@ const Home = () => {
               
               </li>
             </a>
-            <p>
-              Charatracker: A simple note taker allowing users to add books and notes for each character as continue reading.
-              <br></br>
-              <br></br>
-              Tech-Stack: JavaScript, Handlebars, ExpressJS
-              <br></br>
-              <br></br>
-              <a href="https://github.com/ShanoBueno/newsies.git">
-                Github Repo Link
-              </a>
-            </p>
             </div>
           
   

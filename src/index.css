@@ -414,6 +414,11 @@ li h6{
   
 }
 
+.proj0 {
+  background-image: url(img/edify.png);
+  background-size: 100%; 
+}
+
 .proj1 {
   background-image: url(img/hypmachine.png);
   background-size: 100%; 
